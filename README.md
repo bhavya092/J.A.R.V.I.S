@@ -13,34 +13,35 @@ Python provides an API called SpeechRecognition to allow us to convert audio int
 
 # Requirements:
 
-LIbraries     |      Use
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+*tkinter -  to deal with the GUI part
 
+*Pyaudio - to take audio input
 
-tkinter -  to deal with the GUI part
+*pyttsx3 - converts  text to speech in python
 
-Pyaudio - to take audio input
+*speech_recognition - to recognize the voice input
 
-pyttsx3 - converts  text to speech in python
+*Wikipedia -  to integrate wikipedia with the code
 
-speech_recognition - to recognize the voice input
+*Googlesearch -  to search google
 
-Wikipedia -  to integrate wikipedia with the code
+*Pyjokes -  for random jokes
 
-Googlesearch -  to search google
+*Webbrowser -  to open things in browser
 
-BeautifulSoup -  to extract data from websites
+*Smtplib -  for emailing
 
-Pyjokes -  for random jokes
+*Re -  for regular expression
 
-Webbrowser -  to open things in browser
+*Selenium  - for whatsapp
 
-Smtplib -  for emailing
-Re -  for regular expression
-Selenium  - for whatsapp
-Pillow -  for image rendering
+*Pillow -  for image rendering
+
 Other Libraries used:
-Datetime, json, random, operator, os, subprocess, time, pylint ,winshell ,sys
+
+*Datetime, json, random, operator, os, subprocess, time, pylint ,winshell ,sys
+
+##Future Scope
+
+A lot can be done with this project. Core AI chatbot like functionality can be added. More python scripts can be associated. Also integrating  it with frameworks like Django,Flask we can make it  a proper assistant with a better user interface  and a stronger backend. This is still a basic version wherein prefeeded instructions can only be used, but using AI-ML we can go to a higher level increasing the scope of application of the concept. From doing basic tasks to complex ones JARVIS can be a all-in-one-thing.  As new and new libraries related to AI are being developed , JARVIS can be upgraded to be a  smart and friendly assistant.
 
